@@ -1,0 +1,22 @@
+'use strict';
+
+const colorBank = [
+  { id: 'VN1348', color: '#17B0D8', cost: 12.39 },
+  { id: 'FW4037', color: '#0B40F1', cost: 9.66 },
+  { id: 'PJ4273', color: '#A4BA1E', cost: 5.77 },
+  { id: 'HX0453', color: '#7E3A8C', cost: 13.78 },
+  { id: 'IS0846', color: '#C3463E', cost: 12.85 },
+  { id: 'YV8406', color: '#D99415', cost: 10.58 },
+  { id: 'BC3087', color: '#577309', cost: 7.78 },
+  { id: 'PG6581', color: '#8349A9', cost: 1.59 },
+  { id: 'CB7538', color: '#556EB6', cost: 17.66 } ];
+const question = [
+  {
+    color: '#1E8363',
+    volume: 4.259230601802249
+  },
+  {
+    color: '#C9C7CA',
+    volume: 5.959918766091828
+  }
+];
