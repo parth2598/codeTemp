@@ -20,3 +20,20 @@ const question = [
     volume: 5.959918766091828
   }
 ];
+
+
+
+
+function eucDictance( colorBank, question)
+{
+  return colorBank
+          .map((x,i) => Math.abs(x-b[i]) ** 2 )
+        .reduce ((sum, now) => sum + now)
+      
+                          **(1/2)
+  
+}
+
+let euc = eucDistance ();
+console.log(eucDistance);
+
